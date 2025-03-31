@@ -1,0 +1,20 @@
+# VS folders
+.vs/
+.idea/
+
+# Build outputs
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
