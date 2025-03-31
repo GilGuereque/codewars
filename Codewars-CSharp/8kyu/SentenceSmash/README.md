@@ -44,9 +44,7 @@ Keeping solutions clean and readable
 Importance of test cases, even for simple problems
 
 📁 Location
-cpp
-Copy
-Edit
+```
 codewars/
 └── Codewars-CSharp/
     └── 8kyu/
@@ -54,5 +52,5 @@ codewars/
             ├── SentenceSmash.cs
             ├── Program.cs (optional)
             └── README.md ← You are here
-
+```
 ---
