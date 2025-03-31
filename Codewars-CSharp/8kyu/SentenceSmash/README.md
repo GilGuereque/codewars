@@ -15,9 +15,7 @@ Be careful, there shouldn't be a space at the beginning or the end of the senten
 ```csharp
 SentenceSmash.Smash(new string[] { "Hello", "world" }) => "Hello world"
 💡 My Solution (C#)
-csharp
-Copy
-Edit
+
 public static class SentenceSmash
 {
     public static string Smash(string[] words)
@@ -26,9 +24,7 @@ public static class SentenceSmash
     }
 }
 🧪 Sample Usage (for testing)
-csharp
-Copy
-Edit
+
 using System;
 
 class Program
@@ -39,6 +35,7 @@ class Program
         Console.WriteLine(result); // Output: Codewars is fun
     }
 }
+```
 🧠 What I Learned
 How to join elements of a string array using string.Join
 
@@ -57,8 +54,5 @@ codewars/
             ├── SentenceSmash.cs
             ├── Program.cs (optional)
             └── README.md ← You are here
-yaml
-Copy
-Edit
 
 ---
