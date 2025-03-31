@@ -1,7 +1,12 @@
 # 🧠 Codewars C# Kata Solutions
 
-This repository contains my solutions to [Codewars](https://www.codewars.com/) kata challenges using **C#**, organized by **Kyu level**.  
+This repository contains my solutions to [Codewars](https://www.codewars.com/) kata challenges using **C#** mainly, organized by **Kyu level**.  
 It's a personal archive to track my progress, improve my coding skills, and serve as a reference for clean and testable C# code.
+
+Currently includes solutions in:
+- **C#** (`Codewars-CSharp`)
+- (Future expansion) **JavaScript** (`JavaScript`)
+
 
 ---
 
@@ -29,7 +34,7 @@ Codewars-CSharp/ │ ├── Codewars-CSharp.sln # Visual Studio solution file
    git clone https://github.com/your-username/codewars-csharp-katas.git
    cd codewars-csharp-katas
 2. Open the solution in Visual Studio:
-    Open Codewars-CSharp.sln
-    Each project is self-contained and runnable.
+    - Open Codewars-CSharp.sln
+    - Each project is self-contained and runnable.
 
 3. Run or debug each kata individually using Visual Studio or dotnet run CLI.
