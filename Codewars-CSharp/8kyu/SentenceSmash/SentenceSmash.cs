@@ -1,5 +1,7 @@
-public class Kata
+public static class SentenceSmash
 {
-    public static string Smash(string[] words) =>
-      String.Join(" ", words);
+    public static string Smash(string[] words)
+    {
+        return string.Join(" ", words);
+    }
 }

@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        var result = SentenceSmash.Smash(new string[] { "Hello", "world" });
+        Console.WriteLine(result); // Output: Hello world
+    }
+}
