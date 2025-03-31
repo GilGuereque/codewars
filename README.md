@@ -12,9 +12,10 @@ Currently includes solutions in:
 
 ## 🗂️ Project Structure
 
+``` 
 Codewars-CSharp/ │ ├── Codewars-CSharp.sln # Visual Studio solution file │ ├── 8kyu/ # Beginner level katas │ ├── SumOfPositive/
 │ │ ├── SumOfPositive.csproj │ │ ├── SumOfPositive.cs │ │ └── README.md │ └── ... │ ├── 7kyu/ │ └── ... │ ├── 6kyu/ │ └── ... │ ├── .gitignore ├── README.md # You are here └── LICENSE
-
+``` 
 
 ---
 
