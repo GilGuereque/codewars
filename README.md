@@ -12,10 +12,30 @@ Currently includes solutions in:
 
 ## 🗂️ Project Structure
 
-``` 
-Codewars-CSharp/ │ ├── Codewars-CSharp.sln # Visual Studio solution file │ ├── 8kyu/ # Beginner level katas │ ├── SumOfPositive/
-│ │ ├── SumOfPositive.csproj │ │ ├── SumOfPositive.cs │ │ └── README.md │ └── ... │ ├── 7kyu/ │ └── ... │ ├── 6kyu/ │ └── ... │ ├── .gitignore ├── README.md # You are here └── LICENSE
-``` 
+```bash
+codewars/
+│
+├── JavaScript/                           # (For future JavaScript katas)
+│
+├── Codewars-CSharp/                      # C# solutions, organized by Kyu level
+│   ├── Codewars-CSharp.sln               # Visual Studio solution file
+│   ├── .gitignore                        # Ignores build artifacts and IDE files
+│   ├── LICENSE                           # MIT or other license
+│   ├── README.md                         # Main project README
+│   │
+│   ├── 8kyu/
+│   │   ├── SentenceSmash/
+│   │   │   ├── SentenceSmash.cs          # Kata solution class
+│   │   │   ├── Program.cs (optional)     # Used for manual testing
+│   │   │   └── README.md                 # Kata-specific README
+│   │   └── ... (more 8kyu katas)
+│   │
+│   ├── 7kyu/
+│   │   └── ... (future 7kyu katas)
+│   │
+│   └── 6kyu/
+│       └── ... (future 6kyu katas)
+```
 
 ---
 
